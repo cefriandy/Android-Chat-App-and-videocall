@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509263472625",
+    "firebase_url": "https://chatkeluarga.firebaseio.com",
+    "project_id": "chatkeluarga",
+    "storage_bucket": "chatkeluarga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509263472625:android:5430cd12c409da10330650",
+        "android_client_info": {
+          "package_name": "com.chatkeluarga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509263472625-uskk98jgjp929jfcf21i0p3uig5koupk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RadKxWzek5p-OVN46sB6-OXJ7sIkRXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509263472625-uskk98jgjp929jfcf21i0p3uig5koupk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

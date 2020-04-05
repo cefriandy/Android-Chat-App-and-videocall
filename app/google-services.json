@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022880652412",
+    "firebase_url": "https://chatappkeluarga-812e7.firebaseio.com",
+    "project_id": "chatappkeluarga-812e7",
+    "storage_bucket": "chatappkeluarga-812e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022880652412:android:6fb9ec196411c3e09b3df9",
+        "android_client_info": {
+          "package_name": "com.example.cef.chatappkeluarga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022880652412-4mpmpi4n3pbbdvt2vuqqmuau2f33br2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cef.chatappkeluarga",
+            "certificate_hash": "b47f8b0bfad30a59746daf5da606e12f96b1c915"
+          }
+        },
+        {
+          "client_id": "1022880652412-qcslc1ddr0119i5vcefes6q9o19ii48h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7bkTr9EKh84Fj132KkbDtrbzMobrTSGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022880652412-qcslc1ddr0119i5vcefes6q9o19ii48h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
